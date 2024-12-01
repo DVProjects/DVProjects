@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DVProjects
 - 👀 I’m interested in kernel and general OS programming.
-- 🌱 I’m currently learning basic Informatics in an italian high school.
+- 🌱 I’m currently learning IT in an italian high school.
 - 📫 Write me on davide31122007@gmail.com
 
 <!---
