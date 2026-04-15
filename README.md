@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DVProjects
 - 👀 I’m interested in kernel and general OS programming.
 - 🌱 I’m currently learning IT in an italian high school.
-- 📫 Write me on davide31122007@gmail.com
+- 📫 Write me on mail@davideventre.tech
 
 <!---
 DVProjects/DVProjects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
